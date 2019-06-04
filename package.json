@@ -1,0 +1,12 @@
+{
+  "name": "discriminant",
+  "version": "1.0.0",
+  "description": "example",
+  "main": "discriminant.js",
+  "scripts": {
+    "start": "node ./discriminant.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
