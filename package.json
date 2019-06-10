@@ -5,6 +5,8 @@
   "main": "discriminant.js",
   "scripts": {
     "start": "node ./discriminant.js -1 2 3",
+    "fiboCycle": "node ./fiboCycle.js 10",
+    "fiboRecursion": "node ./fiboRecursion.js 10",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
